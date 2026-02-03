@@ -8,7 +8,7 @@
       "source": "modrinth"
     },
     {
-      "name": "cobblemon-spawn-notification",
+      "name": "Cobblemon Spawn Notification",
       "source": "modrinth",
       "version": "1.7.1-fabric-2.2.2"
     },
@@ -21,6 +21,11 @@
       "name": "TerraBlender",
       "source": "modrinth",
       "version": "4.1.0.8"
+    },
+    {
+      "name": "Chipped",
+      "source": "modrinth",
+      "version": "4.0.2"
     }
   ]
 }
