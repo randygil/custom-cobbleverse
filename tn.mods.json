@@ -1,31 +1,36 @@
 {
-  "modLoader": "fabric",
-  "gameVersion": "1.21.1",
-  "prune": false,
-  "mods": [
-    {
-      "name": "simple-voice-chat",
-      "source": "modrinth"
-    },
-    {
-      "name": "Cobblemon Spawn Notification",
-      "source": "modrinth",
-      "version": "1.7.1-fabric-2.2.2"
-    },
-    {
-      "name": "Cobblemon: Legendary Monuments",
-      "source": "modrinth",
-      "version": "7.8"
-    },
-    {
-      "name": "TerraBlender",
-      "source": "modrinth",
-      "version": "4.1.0.8"
-    },
-    {
-      "name": "Chipped",
-      "source": "modrinth",
-      "version": "4.0.2"
-    }
-  ]
+    "modLoader": "fabric",
+    "gameVersion": "1.21.1",
+    "prune": false,
+    "mods": [
+        {
+            "name": "simple-voice-chat",
+            "source": "modrinth"
+        },
+        {
+            "name": "Cobblemon Spawn Notification",
+            "source": "modrinth",
+            "version": "1.7.1-fabric-2.2.2"
+        },
+        {
+            "name": "Cobblemon: Legendary Monuments",
+            "source": "modrinth",
+            "version": "7.8"
+        },
+        {
+            "name": "TerraBlender",
+            "source": "modrinth",
+            "version": "4.1.0.8"
+        },
+        {
+            "name": "Chipped",
+            "source": "modrinth",
+            "version": "4.0.2"
+        },
+        {
+            "name": "CobbledGacha v.2 [Fabric/NeoForge 1.21.1]",
+            "source": "modrinth",
+            "version": "2.1.1"
+        }
+    ]
 }
